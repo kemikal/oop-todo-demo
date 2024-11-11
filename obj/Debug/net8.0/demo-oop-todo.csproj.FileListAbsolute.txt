@@ -1,0 +1,14 @@
+/Users/jannekemi/repos/temp/demo-oop-todo/bin/Debug/net8.0/demo-oop-todo
+/Users/jannekemi/repos/temp/demo-oop-todo/bin/Debug/net8.0/demo-oop-todo.deps.json
+/Users/jannekemi/repos/temp/demo-oop-todo/bin/Debug/net8.0/demo-oop-todo.runtimeconfig.json
+/Users/jannekemi/repos/temp/demo-oop-todo/bin/Debug/net8.0/demo-oop-todo.dll
+/Users/jannekemi/repos/temp/demo-oop-todo/bin/Debug/net8.0/demo-oop-todo.pdb
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.AssemblyInfoInputs.cache
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.AssemblyInfo.cs
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.csproj.CoreCompileInputs.cache
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.dll
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/refint/demo-oop-todo.dll
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.pdb
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/demo-oop-todo.genruntimeconfig.cache
+/Users/jannekemi/repos/temp/demo-oop-todo/obj/Debug/net8.0/ref/demo-oop-todo.dll
